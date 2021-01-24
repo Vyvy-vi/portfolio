@@ -2,8 +2,9 @@ document.write('\
     <!--Bootstrap css file-->\
     <link rel="stylesheet" href="./css/bootstrap.min.css">\
     <!--custom css-->\
+        <link rel="stylesheet" type="text/css" href="./css/grid.css">\
     <link rel="stylesheet" href="./css/style.css">\
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">\
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark" color>\
         <div class="container-fluid">\
           <a class="navbar-brand">Vyvy-vi</a>\
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">\
@@ -30,6 +31,17 @@ document.write('\
           </div>\
         </div>\
       </nav>\
+      <div class="trail">\
+        <div class="pointer pointer1"></div>\
+        <div class="pointer pointer2"></div>\
+        <div class="pointer pointer3"></div>\
+        <div class="pointer pointer4"></div>\
+        <div class="pointer pointer5"></div>\
+      </div>\
+      <script src="https://code.jquery.com/jquery-3.3.1.js"></script>\
+      <script type="text/javascript">\
+        $(document).mousemove(function(e){$(".pointer").css({left:e.pageX, top:e.pageY});})\
+      </script>\
 ');
 
 
