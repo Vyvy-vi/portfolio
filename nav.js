@@ -21,9 +21,6 @@ document.write('\
               <li class="nav-item">\
                 <a class="nav-link" href="./socials.html">Socials |</a>\
               </li>\
-              <li class="nav-item">\
-                <a class="nav-link" href="./contact.html">Contact |</a>\
-              </li>\
             </ul>\
           </div>\
         </div>\
@@ -41,4 +38,7 @@ document.write('\
       </script>\
 ');
 
-
+/*               <li class="nav-item">\
+<a class="nav-link" href="./contact.html">Contact |</a>\
+</li>\
+*/
