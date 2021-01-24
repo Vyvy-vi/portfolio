@@ -1,0 +1,53 @@
+BSD 3-Clause License
+
+Copyright (c) 2021, Vyom Jain
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+```
+                  EXTRA CLAUSES FOR IDENTITY PROTECTION:
+                Added by Vyvy-vi (Vyom Jain) in Jan, 2021
+
+  - The deployed website from this software may only be used for commercial OR
+referential public use, after a user alters the original information on the site,
+to remove the author's original information.
+  - Any instances of identity theft with regard to this portfolio's owner OR their
+projects would be a legal violation.
+  - In any instances of this code being shared, if the user is referring to themselves
+by the name of "Vyvy-vi" or "Vyom Jain", it is requested for the recruiter/reviewer to
+kindly contact `vyom.j@pm.me` to confirm the identity of the submission made
+by the user.
+  - Users and contributers have full right to modify the source code and use it
+in for their portfolios and profile, as long as the data used on their deployed site
+is not the author's data.
+
+Regarding modification of these Extra clauses:
+- Contributers and Users are allowed to alter the above extra clauses, as long as
+the author's information has been removed or replaced from the project.
+- Contributers and Users are required to keep the above clauses in all form, if
+the software contains the auther's information.
+```
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
