@@ -24,9 +24,6 @@ document.write('\
               <li class="nav-item">\
                 <a class="nav-link" href="./contact.html">Contact |</a>\
               </li>\
-              <li class="nav-item">\
-                <a class="nav-link" href="./hack.html">Hack me |</a>\
-              </li>\
             </ul>\
           </div>\
         </div>\
