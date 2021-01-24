@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Vyvy-vi",
+      "name": "Vyom Jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62864373?v=4",
+      "profile": "https://github.com/Vyvy-vi",
+      "contributions": [
+        "projectManagement",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "portfolio",
+  "projectOwner": "Vyvy-vi",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
